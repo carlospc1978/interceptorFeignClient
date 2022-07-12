@@ -1,0 +1,7 @@
+uello:
+  task:
+    url: https://integration-api.staging.uello.com.br/v1
+  api-Key: 74f73cddbfeb7b2d704398a4d052a50a49d923a150048e2621f779a58226ec2b
+cargon:
+  task:
+    url: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_mockar
