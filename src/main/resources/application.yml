@@ -1,3 +1,6 @@
+server:
+  port: 8099
+
 uello:
   task:
     url: https://integration-api.staging.uello.com.br/v1
