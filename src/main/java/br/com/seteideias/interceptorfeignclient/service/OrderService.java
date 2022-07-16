@@ -7,7 +7,6 @@ import br.com.seteideias.interceptorfeignclient.entity.cargon.BodyToCargon;
 import br.com.seteideias.interceptorfeignclient.entity.cargon.CargonResponse;
 import br.com.seteideias.interceptorfeignclient.entity.uello.Invoice;
 import br.com.seteideias.interceptorfeignclient.entity.uello.OrderUello;
-import br.com.seteideias.interceptorfeignclient.entity.uello.OrderUelloResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
