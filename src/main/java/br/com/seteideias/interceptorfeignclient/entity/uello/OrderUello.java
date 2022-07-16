@@ -1,14 +1,12 @@
 package br.com.seteideias.interceptorfeignclient.entity.uello;
 
-import lombok.AllArgsConstructor;
 import lombok.Builder;
-import lombok.NoArgsConstructor;
+import lombok.Data;
 
 import java.util.List;
 
 @Builder
-@NoArgsConstructor
-@AllArgsConstructor
+@Data
 public class OrderUello {
     public int operation;
     public Company company;

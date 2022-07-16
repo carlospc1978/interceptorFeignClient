@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RequestHeader;
 @FeignClient(name = "uello", url = "${client.uello.task.url}")
 public interface OrderSenderUello {
 
-    @PostMapping(value = "/orders", consumes = "application/json",produces = "application/json")
+    @PostMapping(value = "/uello", consumes = "application/json",produces = "application/json")
     OrderUelloResponse createOrder(@RequestHeader("X-API-KEY") String apiKey, @RequestBody OrderUello order);
 }

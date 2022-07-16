@@ -1,0 +1,78 @@
+{
+  "id": "62cecd98980b860001b8c246",
+  "companyId": "001",
+  "applicationId": "ATG",
+  "sellerId": "1",
+  "partnerPlatform": {
+    "name": "UELLO",
+    "quoteId": "240989217498930",
+    "deliveryMethodId": 16906,
+    "partnerPlatformId": 5
+  },
+  "customer": {
+    "fullName": "Maiquel Dias",
+    "firstName": "Maiquel",
+    "lastName": "Dias",
+    "email": "maiquel.dias@dbserver.com.br",
+    "cellphone": "51997990015",
+    "isCompany": false,
+    "federalTaxPayerId": "80976743000",
+    "shippingAddress": "Rua Tomi Saburo Yamamoto",
+    "shippingNumber": "001",
+    "shippingAdditional": "casa 01",
+    "shippingQuarter": "Jardim das Cerejeiras",
+    "shippingCity": "Arujá",
+    "shippingState": "SP",
+    "shippingZipCode": "07432575",
+    "shippingCountry": "BR",
+    "notify": {
+      "whatsapp": false,
+      "email": false,
+      "sms": false
+    }
+  },
+  "orderVolume": [
+    {
+      "name": "8531048867",
+      "orderVolumeNumber": "8531048867",
+      "volumeTypeCode": "BOX",
+      "width": 1.0,
+      "height": 1.0,
+      "length": 1.0,
+      "weight": 0.30000001192092896,
+      "productsNature": "APPAREL",
+      "productsQuantity": 1,
+      "isIcmsExempt": false,
+      "orderVolumeInvoice": {
+        "invoiceSeries": "5",
+        "invoiceNumber": "8531048867",
+        "invoiceKey": "33160692754738027109550050000503111408334173",
+        "invoiceDate": "2022-07-13T13:50:14",
+        "invoiceTotalValue": 46.01,
+        "invoiceProductsValue": 39.9
+      }
+    }
+  ],
+  "orderType": "normal",
+  "orderNumber": "8511044467-1",
+  "salesOrderNumber": "8511044467",
+  "originZipCode": "23575450",
+  "estimatedDeliveryDate": "2022-07-18T00:00:00",
+  "providerShippingCosts": 6.11,
+  "customerShippingCosts": 6.11,
+  "salesChannel": "OC",
+  "scheduled": false,
+  "numberAttempts": 0,
+  "notifiedDetail": {
+    "bringg": false,
+    "intelipost": false,
+    "app": false,
+    "freteRapido": false,
+    "uello": false
+  },
+  "requiredSkills": [],
+  "wayPoints": [],
+  "tipoOperacao": "CREATE",
+  "brokerFulfillmentMethod": "CD",
+  "deliveryMethodId": "16906"
+}

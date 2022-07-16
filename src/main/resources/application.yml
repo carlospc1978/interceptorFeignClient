@@ -1,10 +1,14 @@
 server:
   port: 8099
 
-uello:
-  task:
-    url: https://integration-api.staging.uello.com.br/v1
-  api-Key: 74f73cddbfeb7b2d704398a4d052a50a49d923a150048e2621f779a58226ec2b
-cargon:
-  task:
-    url: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx_mockar
+client:
+  uello:
+    task:
+      url: https://9bae-201-148-254-77.sa.ngrok.io
+    apikey: 74f73cddbfeb7b2d704398a4d052a50a49d923a150048e2621f779a58226ec2b
+  cargon:
+    toogle_buscarNaCargon: true
+    task:
+      url: https://9bae-201-148-254-77.sa.ngrok.io
+    bearerToken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjQ4MDgwLCJpYXQiOjE2NTc1NjI1MDJ9.3nB86hxl5QFXFxBnCyKO_jLgL3rVavlnqCPDpLZiLso
+
